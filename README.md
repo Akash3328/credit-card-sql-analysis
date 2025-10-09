@@ -123,7 +123,7 @@ All queries are included in:
 ## 👨‍💻 Author
 **Akash Odedara**  
 🎓 SQL | Backend Development | Full Stack Learner  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/akash-odedara/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/akashodedara3328)
 📁 [GitHub Projects](https://github.com/Akash3328)
 
 ---
